@@ -1,8 +1,7 @@
-
 Transgender Lives and COVID-19
 
 
-Transgender Day of Visibility (TDOV) is March 31st every year; it is a day to celebrate the trans experience and “to bring attention to the accomplishments of trans people around the globe while fighting cissexism and transphobia by spreading knowledge of the trans community” (https://www.transstudent.org/tdov). I spent this year’s TDOV voluntarily sheltering in place in my home in Berkeley, California, with two other non-binary housemates of mine. During this shelter-in-place, I am reminded of the struggles faced uniquely by trans and non-binary folks in light of COVID-19. 
+Transgender Day of Visibility (TDOV) is March 31st every year; it is a day to celebrate the trans experience and [“to bring attention to the accomplishments of trans people around the globe while fighting cissexism and transphobia by spreading knowledge of the trans community”](https://www.transstudent.org/tdov). I spent this year’s TDOV voluntarily sheltering in place in my home in Berkeley, California, with two other non-binary housemates of mine. During this shelter-in-place, I am reminded of the struggles faced uniquely by trans and non-binary folks in light of COVID-19. 
 
 
 Being Counted
