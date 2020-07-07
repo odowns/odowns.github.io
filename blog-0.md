@@ -52,4 +52,5 @@ Taking action is very difficult in a pandemic. This situation impacts everyone d
 
 
 
-If you or anyone you know who is trans/non-binary/gender non-conforming and facing suicidality, please call <a href = “https://www.translifeline.org/“ Trans Lifeline </a> at 877-565-8860.
+If you or anyone you know who is trans/non-binary/gender non-conforming and facing suicidality, please call <a href=“https://www.translifeline.org/“ Trans Lifeline </a> at 877-565-8860.
+
