@@ -1,7 +1,7 @@
 ##theme: jekyll-theme-hacker
 remote_theme: b2a3e8/jekyll-theme-console
-##header_pages:
-##  - index.md
+header_pages:
+  - resume.md
 ##  - about.md
 
 style: dark # dark (default), light or hacker
