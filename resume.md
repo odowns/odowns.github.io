@@ -1,1 +1,1 @@
-<img src="resume_ollie_downs.png" width="500">
+<img src="resume-ollie-downs.png" width="500">
