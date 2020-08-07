@@ -1,1 +1,1 @@
-<img scr= "resume-for-website.png"> </>
+<img scr= "resume-for-website.png"> </img>
