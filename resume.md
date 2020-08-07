@@ -1,1 +1,1 @@
-<img scr= "Ollie Downs resume.pdf"> </>
+<img scr= "resume-for-website.png"> </>
