@@ -7,4 +7,4 @@ This website serves as a repository of the work I've done, both technical and no
 
 [Resume](resume.md)
 
-[Blog Post](blog-0.md)
+[Blog](blog.md)
