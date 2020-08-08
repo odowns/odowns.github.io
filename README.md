@@ -5,6 +5,8 @@ This website serves as a repository of the work I've done, both technical and no
 
 <img src="ollie-downs.png" width="50%">
 
+[About Me](about-me.md)
+
 [Resume](resume.md)
 
 [Blog](blog.md)
