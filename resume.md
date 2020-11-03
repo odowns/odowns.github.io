@@ -1,7 +1,9 @@
 # Resume
 
-mailto:odowns@berkeley.edu
+odowns@berkeley.edu
+
 (619) 453-1032
+
 https://www.linkedin.com/in/ollie-downs
 
 ## Profile
