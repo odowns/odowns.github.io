@@ -1,6 +1,6 @@
 # Resume
 
-odowns@berkeley.edu
+odowns@protonmail.com
 
 (619) 453-1032
 
